@@ -1,0 +1,29 @@
+/* .container {
+    background-color: #2ba6cb;
+    padding: 40px 90px;
+}
+
+.container-fluid {
+    background-color: #2ba6cb;
+    padding: 40px 90px;
+} */
+
+/* .bg1 {
+    background: cyan;
+}
+
+.bg2 {
+    background: yellow;
+} */
+
+body {
+    position: relative;
+}
+
+.nav-body {
+    position: relative;
+}
+#section1 {height: 100vh; padding-top: 70px; background-color: cyan;}
+#section2 {height: 100vh; padding-top: 70px; background-color: yellow;}
+#section3 {height: 100vh; padding-top: 70px; background-color: pink;}
+#section4 {height: 100vh; padding-top: 70px; background-color: magenta;}
