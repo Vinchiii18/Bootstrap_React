@@ -1,0 +1,1 @@
+Download ZIP > Extract > Open boots.html to see practice output
